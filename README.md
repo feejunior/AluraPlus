@@ -1,2 +1,2 @@
 # AluraPlus
-Página de demonstração da Alura+
+Alura+ (Somente Desktop)
